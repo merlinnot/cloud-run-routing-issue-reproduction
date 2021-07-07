@@ -1,0 +1,12 @@
+{
+  "author": "Natan Sągol <m@merlinnot.com>",
+  "description": "",
+  "license": "MIT",
+  "main": "./index.js",
+  "name": "cloud-run-routing-issue-reproduction",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
